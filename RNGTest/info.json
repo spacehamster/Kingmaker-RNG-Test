@@ -1,0 +1,9 @@
+{
+  "Id": "RNGTest",
+  "DisplayName": "RNG Test",
+  "Author": "spacehamster",
+  "Version": "1.0.0",
+  "ManagerVersion": "0.22.0",
+  "AssemblyName": "RNGTest.dll",
+  "EntryMethod": "RNGTest.Main.Load"
+}

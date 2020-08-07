@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29519.87
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RNGTest", "RNGTest\RNGTest.csproj", "{55288D4E-9927-4FB3-ABC8-710E0448D061}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Install Debug|Any CPU = Install Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{55288D4E-9927-4FB3-ABC8-710E0448D061}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{55288D4E-9927-4FB3-ABC8-710E0448D061}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{55288D4E-9927-4FB3-ABC8-710E0448D061}.Install Debug|Any CPU.ActiveCfg = Install Debug|Any CPU
+		{55288D4E-9927-4FB3-ABC8-710E0448D061}.Install Debug|Any CPU.Build.0 = Install Debug|Any CPU
+		{55288D4E-9927-4FB3-ABC8-710E0448D061}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{55288D4E-9927-4FB3-ABC8-710E0448D061}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {225B8191-FF0C-4F7B-975B-4225790F3BA9}
+	EndGlobalSection
+EndGlobal
